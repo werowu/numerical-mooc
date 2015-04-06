@@ -1,3 +1,4 @@
+﻿cos jeszcze
 cokolwiek
 #Practical Numerical Methods with Python
 
